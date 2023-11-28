@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146392537191",
+    "project_id": "atelier4-s-elgbouri-iir5g2",
+    "storage_bucket": "atelier4-s-elgbouri-iir5g2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146392537191:android:caaae0f60c6667c98d5cc2",
+        "android_client_info": {
+          "package_name": "com.example.atelier4_s_elgbouri_iir5g2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIlmvyNGdl_o3QWzXayKS8XYkO71z-eyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
