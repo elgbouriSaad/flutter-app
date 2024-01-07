@@ -3,6 +3,7 @@ import 'package:atelier4_s_elgbouri_iir5g2/firebase_options.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_ui_auth/firebase_ui_auth.dart';
 import 'package:flutter/material.dart';
+import 'login_ecran.dart';
 //import 'package:atelier4_s_elgbouri_iir5g2/login_ecran.dart';
 
 Future<void> main() async {
@@ -26,7 +27,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.red),
         useMaterial3: true,
       ),
-      home: ListeProduits(),
+      home: LoginAuth(),
     );
   }
 }
